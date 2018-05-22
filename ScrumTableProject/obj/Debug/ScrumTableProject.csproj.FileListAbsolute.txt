@@ -1,0 +1,10 @@
+C:\Users\ozben\source\repos\ScrumTableProject\ScrumTableProject\bin\Debug\ScrumTableProject.exe.config
+C:\Users\ozben\source\repos\ScrumTableProject\ScrumTableProject\bin\Debug\ScrumTableProject.exe
+C:\Users\ozben\source\repos\ScrumTableProject\ScrumTableProject\bin\Debug\ScrumTableProject.pdb
+C:\Users\ozben\source\repos\ScrumTableProject\ScrumTableProject\obj\Debug\ScrumTableProject.csprojAssemblyReference.cache
+C:\Users\ozben\source\repos\ScrumTableProject\ScrumTableProject\obj\Debug\ScrumTableProject.frmMain.resources
+C:\Users\ozben\source\repos\ScrumTableProject\ScrumTableProject\obj\Debug\ScrumTableProject.Properties.Resources.resources
+C:\Users\ozben\source\repos\ScrumTableProject\ScrumTableProject\obj\Debug\ScrumTableProject.csproj.GenerateResource.cache
+C:\Users\ozben\source\repos\ScrumTableProject\ScrumTableProject\obj\Debug\ScrumTableProject.csproj.CoreCompileInputs.cache
+C:\Users\ozben\source\repos\ScrumTableProject\ScrumTableProject\obj\Debug\ScrumTableProject.exe
+C:\Users\ozben\source\repos\ScrumTableProject\ScrumTableProject\obj\Debug\ScrumTableProject.pdb
